@@ -1,0 +1,12 @@
+
+
+/localizacao	https://adlcalhas.com.br/contato
+/rufos	https://adlcalhas.com.br/rufos-em-curitiba
+/condutores	https://adlcalhas.com.br/condutores-em-curitiba
+/mictorios	https://adlcalhas.com.br/contato
+/calhas https://adlcalhas.com.br/calhas-em-curitiba
+/tubulacoes https://adlcalhas.com.br/condutores-em-curitiba
+/telhados https://adlcalhas.com.br/manutencao-telhado-em-curitiba
+/colarinhos https://adlcalhas.com.br/contato
+/coifas https://adlcalhas.com.br/coifas-em-curitiba
+/chamines https://adlcalhas.com.br/chamines-em-curitiba
